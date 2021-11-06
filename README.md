@@ -2,8 +2,10 @@
 
 The MetaverseAir(MVRS) NFT marketplace platform on Ethereum smart contracts.
 <br/><br/> Updating the newest UI for NFT exchange and communications with the MetaverseAir v2 protocol.
-<br/><br/> MetaverseAir(MVRS) is an NFT marketplace on the Ethereum blockchain. MVRS focuses on building a cross-chain NFT network that can be represented on a multi-chain ecosystem with the same metadata. The core of the "Bridge" product is speed and security. The "Avatar" units represent a decentralized identity in the metaverse created by the network. These identities are focused on <span class="pl-en">presence</span>
+<br/><br/> MetaverseAir(MVRS) is an NFT marketplace on the Ethereum blockchain. MVRS focuses on building a cross-chain NFT network that can be represented on a multi-chain ecosystem with the same metadata. The core of the "Bridge" product is speed and security. The "Avatar" units represent a decentralized identity in the metaverse created by the network. These identities are focused on 
 
+<span class="pl-en">presence</span>
+<span class="pl-c1">presence</span>
 
 
 
