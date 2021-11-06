@@ -8,7 +8,7 @@ The MetaverseAir(MVRS) NFT marketplace platform on Ethereum smart contracts.
 <hr/>
 <br/> Contract Address
 <br/><br/>MetaverseAir(MVRS): https://etherscan.io/token/0xcdeeeaaf2e96c25c679155e3854169c2f336b931
-<br/>MVRS-ETH Uniswap v3 pool: 0x419E02BF3009411f598B09b89AcC0A0417683849
+<br/>MVRS-ETH Uniswap v3 pool: https://etherscan.io/address/0x419E02BF3009411f598B09b89AcC0A0417683849
 <br/><br/>
 
 <br/> Website Links
