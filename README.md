@@ -1,5 +1,5 @@
 # MVRS
 
-Website Links
-Homepage: https://www.intothemvrs.com
-Telegram: https://t.me/mvrs_official
+<br/> Website Links
+<br/><br/> Homepage: https://www.intothemvrs.com
+<br/> Telegram: https://t.me/mvrs_official
